@@ -35,27 +35,27 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("DAXXMUSIC.plugins" + all_module)
-    LOGGER("DAXXMUSIC.plugins").info("𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...")
+        importlib.import_module("SigmaXSmartmusic.plugins" + all_module)
+    LOGGER("SigmaXSmartmusic.plugins").info("𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...")
     await userbot.start()
     await DAXX.start()
     try:
         await DAXX.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
-        LOGGER("DAXXMUSIC").error(
-            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝗗𝗔𝗫𝗫 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
+        LOGGER("SigmaXSmartmusic").error(
+            "𝐏𝐋𝐙 𝐒𝐓𝐀𝐑𝐓 𝐘𝐎𝐔𝐑 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐕𝐎𝐈𝐂𝐄𝐂𝐇𝐀𝐓\𝐂𝐇𝐀𝐍𝐍𝐄𝐋\n\n𝐇𝐀𝐑𝐒𝐇 𝐁𝐎𝐓 𝐒𝐓𝐎𝐏........"
         )
         exit()
     except:
         pass
     await DAXX.decorators()
-    LOGGER("DAXXMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗗𝗔𝗫𝗫☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+    LOGGER("SigmaXSmartmusic").info(
+        "╔═════☠️ஜ۩💋۩ஜ☠️════╗\n  🍁𝐌𝐀𝐃𝐄 𝐁𝐘 𝐌𝐑 𝐇𝐀𝐑𝐒𝐇🍁\n╚═════☠️ஜ۩💋۩ஜ☠️════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("DAXXMUSIC").info("𝗦𝗧𝗢𝗣 𝗗𝗔𝗫𝗫 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("SigmaXSmartmusic").info("𝐒𝐓𝐎𝐏 𝐇𝐀𝐑𝐒𝐇 𝐌𝐔𝐒𝐈𝐂⚡ 𝐁𝐎𝐓..")
 
 
 if __name__ == "__main__":
