@@ -7,7 +7,7 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-✪ ωεℓ¢σмє ƒσя 𝚍𝚊𝚡𝚡 яєρσѕ ✪
+✪ ωεℓ¢σмє ƒσя 𝙷𝚊𝚛𝚜𝚑 яєρσѕ ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
@@ -29,49 +29,49 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+          InlineKeyboardButton("𝐀𝐃𝐃 𝐌𝐄", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/HEROKUFREECC"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/iam_daxx"),
+          InlineKeyboardButton("𝐇𝐄𝐋𝐏", url="https://t.me/HEROKUFREECC"),
+          InlineKeyboardButton("𝐎𝐖𝐍𝐄𝐑", url="https://t.me/mr_harsh_zs2"),
           ],
                [
-                InlineKeyboardButton("𝗟𝗜𝗩𝗘 𝗖𝗖", url="https://t.me/ALLTYPECC"),
+                InlineKeyboardButton("𝐋𝐈𝐕𝐄 𝐂𝐂", url="https://t.me/ALLTYPECC"),
 
 ],
 [
-              InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://github.com/DAXXTEAM/DAXXBANALL"),
-              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/DAXXTEAM/DAXXMUSIC"),
+              InlineKeyboardButton("𝐁𝐀𝐍 𝐀𝐋𝐋", url=f"https://github.com/DAXXTEAM/DAXXBANALL"),
+              InlineKeyboardButton("︎𝐌𝐔𝐒𝐈𝐂", url=f"https://github.com/DAXXTEAM/DAXXMUSIC"),
               ],
               [
-              InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧︎", url=f"https://github.com/DAXXTEAM/YumikooRobot"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/DAXXCHATBOT"),
+              InlineKeyboardButton("𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓", url=f"https://github.com/DAXXTEAM/YumikooRobot"),
+InlineKeyboardButton("𝐂𝐇𝐀𝐓 𝐁𝐎𝐓", url=f"https://github.com/DAXXTEAM/DAXXCHATBOT"),
 ],
 [
-InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/DAXXSTRINGBOT"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧𝗚𝗣𝗧", url=f"https://github.com/DAXXTEAM/DAXXCHATGPT"),
+InlineKeyboardButton("𝐒𝐓𝐑𝐈𝐍𝐆𝐁𝐎𝐓", url=f"https://github.com/DAXXTEAM/DAXXSTRINGBOT"),
+InlineKeyboardButton("𝐂𝐇𝐀𝐓𝐆𝐏𝐓", url=f"https://github.com/DAXXTEAM/DAXXCHATGPT"),
 ],
 [
-              InlineKeyboardButton("𝗩𝗣𝗦", url=f"https://github.com/DAXXTEAM/Kaali-Linux"),
-              InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘︎", url=f"https://github.com/DAXXTEAM/DAXXMOVIEBOT"),
+              InlineKeyboardButton("𝐕𝐎𝐒", url=f"https://github.com/DAXXTEAM/Kaali-Linux"),
+              InlineKeyboardButton("𝐌𝐎𝐕𝐈𝐄", url=f"https://github.com/DAXXTEAM/DAXXMOVIEBOT"),
               ],
               [
-              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚 𝗛𝗔𝗖𝗞︎", url=f"https://github.com/DAXXTEAM/DAXXSTRINGHACK"),
-InlineKeyboardButton("𝗜𝗗 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/DAXXIDCHAT"),
+              InlineKeyboardButton("𝐒𝐓𝐑𝐈𝐍𝐆 𝐇𝐀𝐂𝐊", url=f"https://github.com/DAXXTEAM/DAXXSTRINGHACK"),
+InlineKeyboardButton("𝐈𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓", url=f"https://github.com/DAXXTEAM/DAXXIDCHAT"),
 ],
 [
-InlineKeyboardButton("𝗨𝗦𝗘𝗥𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/DAXXUSERBOT"),
-InlineKeyboardButton("𝗦𝗘𝗔𝗥𝗖𝗛𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/SEARCH_BOT"),
+InlineKeyboardButton("𝐔𝐒𝐄𝐑𝐁𝐎𝐓", url=f"https://github.com/DAXXTEAM/DAXXUSERBOT"),
+InlineKeyboardButton("𝐒𝐄𝐀𝐑𝐂𝐇𝐁𝐎𝐓", url=f"https://github.com/DAXXTEAM/SEARCH_BOT"),
 ],
 [
-InlineKeyboardButton("𝗖𝗖 𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/CC_BOT"),
+InlineKeyboardButton("𝐂𝐂 𝐁𝐎𝐓", url=f"https://github.com/DAXXTEAM/CC_BOT"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/faa1f3ad7116e33d9f402.jpg",
+        photo="https://mallucampaign.in/images/img_1710788470.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
