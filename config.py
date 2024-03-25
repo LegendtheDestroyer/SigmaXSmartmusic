@@ -16,9 +16,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","Mr_harsh_zs2")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "hoshino_Roxbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Tannu_Robot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Ai Hodhino")
+BOT_NAME = getenv("BOT_NAME" , "˹𝐓ᴀɴɴᴜ ✘ 𝐌ꫝɴᴀɢᴇᴍᴇɴᴛ˼")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "mr_harsh_zs2")
 # ---------------------------------------------------------
