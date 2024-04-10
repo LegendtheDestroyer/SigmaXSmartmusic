@@ -37,15 +37,15 @@ async def instatus(app, message):
         timelog = "{:.2f}".format(end_time - start_time)
         await sent_message.edit(f"""
 ❥︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎
-☞︎︎︎ NAME : {message.chat.title} 🍁
-☞︎︎︎ MEMBERS : [ {count} ]🍁
+➪ 𝐆ʀᴏᴜᴘ 𝐍ᴀᴍᴇ : {message.chat.title} 🍁
+➪ 𝐌ᴇᴍʙᴇʀs : [ {count} ]🍁
 ❥︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎
-☞︎︎︎ BOTS : {bot}🍁
-☞︎︎︎ ZOMBIES : {deleted_acc}🍁
-☞︎︎︎ BANNED : {banned}🍁
-☞︎︎︎ PREMIUM USERS : {premium_acc}🍁
+➪ 𝐁ᴏᴛs : {bot}🍁
+➪ 𝐙ᴏᴍʙɪᴇs : {deleted_acc}🍁
+➪ 𝐁ᴀɴɴᴇᴅ : {banned}🍁
+➪ 𝐏ʀᴇᴍɪᴜᴍ 𝐔sᴇʀs : {premium_acc}🍁
 ❥︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎🝮︎︎︎︎︎︎︎
-TIME TAKEN : {timelog} S**""")
+𝐓ɪᴍᴇ 𝐓ᴀᴋᴇɴ : {timelog} S**""")
     else:
         sent_message = await message.reply_text("ONLY ADMINS CAN USE THIS !")
         await sleep(5)
