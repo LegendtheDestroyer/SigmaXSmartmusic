@@ -20,26 +20,26 @@ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 /stickerid ➠ ɢᴇᴛs ᴛʜᴇ sᴛɪᴄᴋᴇʀ ɪᴅ ᴏғ ᴀ sᴛɪᴄᴋᴇʀ.
 '''
 
-    HELP_TagAll = '''Tᴀɢ
+    HELP_TagAll = '''𝐓ᴀɢs
 
   Tᴀɢ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 ✿ ᴄʜᴏᴏsᴇ ᴛᴀɢ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ ✿
 
-๏ /gmtag ➛ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ 
-ᴛᴀɢ sᴛᴏᴘ ⇴ /gmstop
-
-๏ /gntag ➛ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /gnstop
+๏ /mention , /utag , /all ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴏ ᴛᴇxᴛ ᴛᴀɢ ✯ sᴛᴏᴘ ⇴ /stopall
 
 ๏ /tagall ➛ ʀᴀɴᴅᴏᴍ ᴍᴇssᴀɢᴇ ᴛᴀɢ sᴛᴏᴘ ⇴ /tagoff /tagstop
+
+๏ /gmtag ➛ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ 
+ᴛᴀɢ ✯ sᴛᴏᴘ ⇴ /gmstop
+
+๏ /gntag ➛ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /gnstop
 
 ๏ /hitag ➛ ʀᴀɴᴅᴏᴍ ʜɪɴᴅɪ ᴍᴇssᴀɢᴇ ᴛᴀɢ sᴛᴏᴘ ⇴/histop
 
 ๏ /shayari ➛ ʀᴀɴᴅᴏᴍ sʜᴀʏᴀʀɪ ᴛᴀɢ sᴛᴏᴘ ⇴ /shstop
 
-๏ /utag ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /cancel 
-
-๏ /vctag ➛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴᴠɪᴛᴇ ᴛᴀɢ sᴛᴏᴘ ⇴ /vcstop
+๏ /lifetag ➛ ʀᴀɴᴅᴏᴍ  ʟɪғᴇ ᴛᴀɢ ᴛᴏ ᴀʟʟ ✯ sᴛᴏᴘ ⇴ /lifestop
 '''
 
     HELP_Info = '''Iɴꜰᴏ
