@@ -20,11 +20,11 @@ def goodnight_command_handler(_, message):
 
 def get_random_sticker():
     stickers = [
-        "CAACAgQAAx0Ce9_hCAACaEVlwn7HeZhgwyVfKHc3WUGC_447IAACLgwAAkQwKVPtub8VAR018x4E", # Sticker 1
-        "CAACAgIAAx0Ce9_hCAACaEplwn7dvj7G0-a1v3wlbN281RMX2QACUgwAAligOUoi7DhLVTsNsh4E", # Sticker 2
-        "CAACAgIAAx0Ce9_hCAACaFBlwn8AAZNB9mOUvz5oAyM7CT-5pjAAAtEKAALa7NhLvbTGyDLbe1IeBA", # Sticker 3
-        "CAACAgUAAx0CcmOuMwACldVlwn9ZHHF2-S-CuMSYabwwtVGC3AACOAkAAoqR2VYDjyK6OOr_Px4E",
-        "CAACAgIAAx0Ce9_hCAACaFVlwn-fG58GKoEmmZpVovxEj4PodAACfwwAAqozQUrt2xSTf5Ac4h4E",
+        "CAACAgQAAxkBAAEL41BmFqrDJ9ea_EpyG8j-UKsyYmbBrwACOgkAAhTL8FDqxvaN6uy7ejQE", # Sticker 1
+        "CAACAgQAAxkBAAEL41JmFqri-EMQP36BlfX1AUImiqxkkwAC6REAAqbxcR4suLN3od21sjQE", # Sticker 2
+        "CAACAgQAAxkBAAEL41RmFqsVzrmNuSbepWhZj0oQjjUtOAACVQwAAuZzSFHgo3Wkl0r02jQE", # Sticker 3
+        "CAACAgQAAxkBAAEL41ZmFqtaS5VDbFc-aWphZTlf4THT2QACow0AAnQmEFD0xPrdn0moQDQE",
+        "CAACAgUAAxkBAAEL41hmFqttk_Hc8wsU5f5SU1pugyao0AACagAD0DiULFrfMo2dWmRMNAQ",
     ]
     return random.choice(stickers)
 
