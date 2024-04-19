@@ -26,7 +26,7 @@ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 ✿ ᴄʜᴏᴏsᴇ ᴛᴀɢ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ ✿
 
-๏ /mention , /utag , /all ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴏ ᴛᴇxᴛ ᴛᴀɢ ✯ sᴛᴏᴘ ⇴ /stopall
+๏ /mention , /utag , /all ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴏ ᴛᴇxᴛ ᴛᴀɢ ✯ sᴛᴏᴘ ⇴ /alloff
 
 ๏ /tagall ➛ ʀᴀɴᴅᴏᴍ ᴍᴇssᴀɢᴇ ᴛᴀɢ sᴛᴏᴘ ⇴ /tagoff /tagstop
 
