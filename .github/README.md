@@ -4,17 +4,17 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harsh123499&repo=SigmaXSmartmusic&theme=flag-india)
 
-[![GIF](https://github.com/Harsh123499/SigmaXSmartmusic/blob/main/Harsh123499.gif)](https://github.com/Harsh123499)
+[![GIF](https://github.com/LegendtheDestroyer/SigmaXSmartmusic/blob/main/Harsh123499.gif)](https://github.com/Harsh123499)
    [![𝐌𝐑 𝐇𝐀𝐑𝐒𝐇](https://github-stats-alpha.vercel.app/api?username=Harsh123499 "MRHARSH")](https://github-stats-alpha.vercel.app/api?username=Harsh123499 "MRHARSH")
 
 
 
 
 
-GO TO [RELOAD.PY](https://github.com/Harsh123499/SigmaXSmartmusic/blob/Master/SigmaXSmartmusic/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/LegendtheDestroyer/SigmaXSmartmusic/blob/Master/SigmaXSmartmusic/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://mallucampaign.in/images/img_1710345364.jpg">
+  <img src="https://telegra.ph/file/cdab23b37b9bec1044db9.jpg">
 </p>
 
 <p align="center">
