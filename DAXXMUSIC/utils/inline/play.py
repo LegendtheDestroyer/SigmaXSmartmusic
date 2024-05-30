@@ -66,7 +66,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="▢ sᴛᴏᴘ", callback_data=f"ADMIN Stop|{chat_id}"),
-            InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Sigma_Byz"),
+            InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/TitanBotStore"),
         ],
         
            [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -84,7 +84,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(text="▢ sᴛᴏᴘ", callback_data=f"ADMIN Stop|{chat_id}"),
-            InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Sigma_Byz"),
+            InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/TitanBotStore"),
         ],
         
            [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
