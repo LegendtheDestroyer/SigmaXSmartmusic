@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Mr_harsh_zs2")
+OWNER_USERNAME = getenv("OWNER_USERNAME","l_L3G3ND_l")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Tannu_Robot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MAYA_X_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹𝐓ᴀɴɴᴜ ✘ 𝐌ꫝɴᴀɢᴇᴍᴇɴᴛ˼")
+BOT_NAME = getenv("BOT_NAME" , "˹𝕞ᴀʏᴀ ꭙ 𝐌ᴜsɪᴄ˼♪")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "mr_harsh_zs2")
+ASSUSERNAME = getenv("ASSUSERNAME" , "l_L3G3ND_l")
 # ---------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Harsh123499/SigmaXSmartmusic",
+    "https://github.com/LegendtheDestroyer/SigmaXSmartmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sigmabot_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sigma_byz")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TitanBotStore")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TitanBotSupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://mallucampaign.in/images/img_1711477806.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://mallucampaign.in/images/img_1711477831.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
 )
-PLAYLIST_IMG_URL = "https://mallucampaign.in/images/img_1711477806.jpg"
-STATS_IMG_URL = "https://mallucampaign.in/images/img_1711477831.jpg"
-TELEGRAM_AUDIO_URL = "https://mallucampaign.in/images/img_1711477806.jpg"
-TELEGRAM_VIDEO_URL = "https://mallucampaign.in/images/img_1711477831.jpg"
-STREAM_IMG_URL = "https://mallucampaign.in/images/img_1711477806.jpg"
-SOUNCLOUD_IMG_URL = "https://mallucampaign.in/images/img_1711477806.jpg"
-YOUTUBE_IMG_URL = "https://mallucampaign.in/images/img_1711477831.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://mallucampaign.in/images/img_1711477806.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://mallucampaign.in/images/img_1711477831.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://mallucampaign.in/images/img_1711477806.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/cdab23b37b9bec1044db9.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
